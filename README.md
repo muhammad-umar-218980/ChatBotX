@@ -25,6 +25,7 @@ Get API Key from Google AI Studio
 Add key in script.js:
 
 javascript
+
 const GEMINI_API_KEY = "YOUR_API_KEY_HERE";
 Open index.html in any browser
 
@@ -59,5 +60,4 @@ Conversation history
 
 Multi-language support
 
-📜 License
-MIT © Muhammad Umar
+
